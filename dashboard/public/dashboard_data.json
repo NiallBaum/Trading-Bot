@@ -1,0 +1,15 @@
+{
+  "last_updated": "Not yet run",
+  "starting_balance": 2000.0,
+  "cash_balance": 2000.0,
+  "equity": 2000.0,
+  "total_return_pct": 0.0,
+  "total_trades": 0,
+  "wins": 0,
+  "losses": 0,
+  "win_rate": 0.0,
+  "open_positions": [],
+  "recent_closed_trades": [],
+  "activity_log": ["Waiting for first scheduled bot run..."],
+  "tickers_watched": ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "TSLA", "META", "VOD.L", "BARC.L", "HSBA.L"]
+}
