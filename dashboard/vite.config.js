@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // so Vite needs to know that sub-path to load assets correctly.
 export default defineConfig({
   plugins: [react()],
-  base: 'Trading-Bot',
+  base: '/Trading-Bot/',
 })
