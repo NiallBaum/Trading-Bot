@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06 18:23:28 UTC",
+  "last_updated": "2026-07-06 20:19:34 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 2000.0,
   "equity": 2000.0,
@@ -11,13 +11,13 @@
   "open_positions": [],
   "recent_closed_trades": [],
   "activity_log": [
-    "[AAPL] No position | \u00a3312.90 | EMA20 \u00a3304.11 | RSI 79.1",
-    "[MSFT] No position | \u00a3385.95 | EMA20 \u00a3384.60 | RSI 55.4",
-    "[GOOGL] No position | \u00a3364.42 | EMA20 \u00a3359.65 | RSI 65.8",
-    "[AMZN] No position | \u00a3244.89 | EMA20 \u00a3243.15 | RSI 58.4",
-    "[NVDA] No position | \u00a3196.41 | EMA20 \u00a3196.06 | RSI 50.7",
-    "[TSLA] No position | \u00a3416.23 | EMA20 \u00a3408.55 | RSI 58.4",
-    "[META] No position | \u00a3601.23 | EMA20 \u00a3590.04 | RSI 61.3",
+    "[AAPL] No position | \u00a3312.66 | EMA20 \u00a3305.75 | RSI 77.2",
+    "[MSFT] No position | \u00a3386.74 | EMA20 \u00a3385.00 | RSI 56.9",
+    "[GOOGL] No position | \u00a3366.46 | EMA20 \u00a3360.98 | RSI 67.2",
+    "[AMZN] No position | \u00a3244.16 | EMA20 \u00a3243.48 | RSI 55.3",
+    "[NVDA] No position | \u00a3195.55 | EMA20 \u00a3196.07 | RSI 47.4",
+    "[TSLA] No position | \u00a3419.77 | EMA20 \u00a3410.47 | RSI 61.1",
+    "[META] No position | \u00a3600.29 | EMA20 \u00a3591.82 | RSI 60.8",
     "[VOD.L] No position | \u00a398.08 | EMA20 \u00a398.63 | RSI 42.1",
     "[BARC.L] No position | \u00a3529.50 | EMA20 \u00a3523.14 | RSI 76.2",
     "[HSBA.L] No position | \u00a31,465.60 | EMA20 \u00a31,450.90 | RSI 67.4"
