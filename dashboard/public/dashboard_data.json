@@ -1,26 +1,41 @@
 {
-  "last_updated": "2026-07-07 17:50:13 UTC",
+  "last_updated": "2026-07-07 19:38:30 UTC",
   "starting_balance": 2000.0,
-  "cash_balance": 2000.0,
+  "cash_balance": 0.0,
   "equity": 2000.0,
   "total_return_pct": 0.0,
   "total_trades": 0,
   "wins": 0,
   "losses": 0,
   "win_rate": 0.0,
-  "open_positions": [],
+  "open_positions": [
+    {
+      "ticker": "AMZN",
+      "entry_price": 245.5449981689453,
+      "size": 8.145146571562071,
+      "stop_loss": 241.86182319641114,
+      "entry_time": "2026-07-07 19:38:30 UTC"
+    },
+    {
+      "ticker": "META",
+      "entry_price": 615.7949829101562,
+      "size": 0.0,
+      "stop_loss": 606.5580581665039,
+      "entry_time": "2026-07-07 19:38:30 UTC"
+    }
+  ],
   "recent_closed_trades": [],
   "activity_log": [
-    "[AAPL] No position | \u00a3312.64 | EMA20 \u00a3308.55 | RSI 69.9",
-    "[MSFT] No position | \u00a3392.68 | EMA20 \u00a3388.34 | RSI 62.6",
-    "[GOOGL] No position | \u00a3369.65 | EMA20 \u00a3364.39 | RSI 67.3",
-    "[AMZN] No position | \u00a3245.46 | EMA20 \u00a3243.99 | RSI 57.6",
-    "[NVDA] No position | \u00a3198.00 | EMA20 \u00a3195.99 | RSI 55.9",
-    "[TSLA] No position | \u00a3406.62 | EMA20 \u00a3409.21 | RSI 47.7",
-    "[META] No position | \u00a3607.89 | EMA20 \u00a3598.11 | RSI 63.4",
-    "[VOD.L] No position | \u00a398.64 | EMA20 \u00a398.67 | RSI 50.5",
-    "[BARC.L] No position | \u00a3516.10 | EMA20 \u00a3521.96 | RSI 43.2",
-    "[HSBA.L] No position | \u00a31,453.40 | EMA20 \u00a31,455.75 | RSI 53.9"
+    "[AAPL] No position | \u00a3311.78 | EMA20 \u00a3312.54 | RSI 47.2",
+    "[MSFT] No position | \u00a3389.69 | EMA20 \u00a3391.41 | RSI 39.9",
+    "[GOOGL] No position | \u00a3367.30 | EMA20 \u00a3368.67 | RSI 44.1",
+    "[AMZN] BUY at \u00a3245.54 | Shares: 8.1451 | Stop: \u00a3241.86",
+    "[NVDA] No position | \u00a3196.06 | EMA20 \u00a3196.31 | RSI 49.2",
+    "[TSLA] No position | \u00a3403.39 | EMA20 \u00a3406.58 | RSI 35.1",
+    "[META] BUY at \u00a3615.79 | Shares: 0.0000 | Stop: \u00a3606.56",
+    "[VOD.L] No position | \u00a398.64 | EMA20 \u00a398.87 | RSI 50.7",
+    "[BARC.L] No position | \u00a3516.10 | EMA20 \u00a3520.52 | RSI 41.4",
+    "[HSBA.L] No position | \u00a31,453.40 | EMA20 \u00a31,458.62 | RSI 47.6"
   ],
   "tickers_watched": [
     "AAPL",

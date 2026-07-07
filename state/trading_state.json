@@ -1,7 +1,23 @@
 {
-  "balance": 2000.0,
-  "positions": {},
-  "last_candle_time": {},
+  "balance": 0.0,
+  "positions": {
+    "AMZN": {
+      "entry_price": 245.5449981689453,
+      "size": 8.145146571562071,
+      "stop_loss": 241.86182319641114,
+      "entry_time": "2026-07-07 19:38:30 UTC"
+    },
+    "META": {
+      "entry_price": 615.7949829101562,
+      "size": 0.0,
+      "stop_loss": 606.5580581665039,
+      "entry_time": "2026-07-07 19:38:30 UTC"
+    }
+  },
+  "last_candle_time": {
+    "AMZN": "2026-07-07 15:30:00-04:00",
+    "META": "2026-07-07 15:30:00-04:00"
+  },
   "total_trades": 0,
   "wins": 0,
   "losses": 0,
