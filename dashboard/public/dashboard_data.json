@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 21:13:31 UTC",
+  "last_updated": "2026-07-07 22:34:36 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 0.0,
   "equity": 2000.0,
@@ -37,7 +37,7 @@
     "[MSFT] No position | \u00a3388.84 | EMA20 \u00a3391.12 | RSI 35.3",
     "[GOOGL] No position | \u00a3367.03 | EMA20 \u00a3368.37 | RSI 44.4",
     "[AMZN] Holding | Live \u00a3245.98 | Entry \u00a3245.54 | Unrealized \u00a33.54",
-    "[NVDA] BUY at \u00a3196.93 | Shares: 0.0000 | Stop: \u00a3193.98",
+    "[NVDA] Holding | Live \u00a3196.93 | Entry \u00a3196.93 | Unrealized \u00a30.00",
     "[TSLA] No position | \u00a3402.90 | EMA20 \u00a3406.22 | RSI 33.6",
     "[META] Holding | Live \u00a3615.58 | Entry \u00a3615.79 | Unrealized \u00a3-0.00",
     "[VOD.L] No position | \u00a398.64 | EMA20 \u00a398.87 | RSI 50.7",
