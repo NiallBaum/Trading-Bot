@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 19:38:30 UTC",
+  "last_updated": "2026-07-07 21:13:31 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 0.0,
   "equity": 2000.0,
@@ -22,17 +22,24 @@
       "size": 0.0,
       "stop_loss": 606.5580581665039,
       "entry_time": "2026-07-07 19:38:30 UTC"
+    },
+    {
+      "ticker": "NVDA",
+      "entry_price": 196.92999267578125,
+      "size": 0.0,
+      "stop_loss": 193.97604278564452,
+      "entry_time": "2026-07-07 21:13:31 UTC"
     }
   ],
   "recent_closed_trades": [],
   "activity_log": [
-    "[AAPL] No position | \u00a3311.78 | EMA20 \u00a3312.54 | RSI 47.2",
-    "[MSFT] No position | \u00a3389.69 | EMA20 \u00a3391.41 | RSI 39.9",
-    "[GOOGL] No position | \u00a3367.30 | EMA20 \u00a3368.67 | RSI 44.1",
-    "[AMZN] BUY at \u00a3245.54 | Shares: 8.1451 | Stop: \u00a3241.86",
-    "[NVDA] No position | \u00a3196.06 | EMA20 \u00a3196.31 | RSI 49.2",
-    "[TSLA] No position | \u00a3403.39 | EMA20 \u00a3406.58 | RSI 35.1",
-    "[META] BUY at \u00a3615.79 | Shares: 0.0000 | Stop: \u00a3606.56",
+    "[AAPL] No position | \u00a3310.66 | EMA20 \u00a3312.32 | RSI 35.6",
+    "[MSFT] No position | \u00a3388.84 | EMA20 \u00a3391.12 | RSI 35.3",
+    "[GOOGL] No position | \u00a3367.03 | EMA20 \u00a3368.37 | RSI 44.4",
+    "[AMZN] Holding | Live \u00a3245.98 | Entry \u00a3245.54 | Unrealized \u00a33.54",
+    "[NVDA] BUY at \u00a3196.93 | Shares: 0.0000 | Stop: \u00a3193.98",
+    "[TSLA] No position | \u00a3402.90 | EMA20 \u00a3406.22 | RSI 33.6",
+    "[META] Holding | Live \u00a3615.58 | Entry \u00a3615.79 | Unrealized \u00a3-0.00",
     "[VOD.L] No position | \u00a398.64 | EMA20 \u00a398.87 | RSI 50.7",
     "[BARC.L] No position | \u00a3516.10 | EMA20 \u00a3520.52 | RSI 41.4",
     "[HSBA.L] No position | \u00a31,453.40 | EMA20 \u00a31,458.62 | RSI 47.6"
