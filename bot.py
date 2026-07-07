@@ -29,7 +29,7 @@ except ImportError:
 # CONFIGURATION
 # ============================================================
 TICKERS = ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "TSLA", "META", "VOD.L", "BARC.L", "HSBA.L"]
-INTERVAL = "1h"
+INTERVAL = "15m"
 LOOKBACK_PERIOD = "60d"
 
 EMA_PERIOD = 20
@@ -175,10 +175,12 @@ def get_entry_signal(df: pd.DataFrame) -> dict:
     rsi_now, rsi_prev = latest["rsi14"], previous["rsi14"]
 
     price_above_ema = price > ema
-    rsi_crossed_above_40 = (rsi_prev <= RSI_BUY_TRIGGER) and (rsi_now > RSI_BUY_TRIGGER)
+    # Level-based instead of strict crossover: RSI in a healthy trending
+    # zone (not overbought, not deeply oversold) while price confirms trend.
+    rsi_in_buy_zone = RSI_BUY_TRIGGER <= rsi_now <= 65
 
     return {
-        "buy_triggered": price_above_ema and rsi_crossed_above_40,
+        "buy_triggered": price_above_ema and rsi_in_buy_zone,
         "price": price, "ema20": ema, "rsi14": rsi_now, "rsi_prev": rsi_prev,
         "candle_time": str(latest["open_time"]),
     }
