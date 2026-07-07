@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06 21:52:33 UTC",
+  "last_updated": "2026-07-07 15:38:59 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 2000.0,
   "equity": 2000.0,
@@ -11,16 +11,16 @@
   "open_positions": [],
   "recent_closed_trades": [],
   "activity_log": [
-    "[AAPL] No position | \u00a3312.66 | EMA20 \u00a3305.75 | RSI 77.2",
-    "[MSFT] No position | \u00a3386.74 | EMA20 \u00a3385.00 | RSI 56.9",
-    "[GOOGL] No position | \u00a3366.46 | EMA20 \u00a3360.98 | RSI 67.2",
-    "[AMZN] No position | \u00a3244.16 | EMA20 \u00a3243.48 | RSI 55.3",
-    "[NVDA] No position | \u00a3195.55 | EMA20 \u00a3196.07 | RSI 47.4",
-    "[TSLA] No position | \u00a3419.77 | EMA20 \u00a3410.47 | RSI 61.1",
-    "[META] No position | \u00a3600.29 | EMA20 \u00a3591.82 | RSI 60.8",
-    "[VOD.L] No position | \u00a398.08 | EMA20 \u00a398.63 | RSI 42.1",
-    "[BARC.L] No position | \u00a3529.50 | EMA20 \u00a3523.14 | RSI 76.2",
-    "[HSBA.L] No position | \u00a31,465.60 | EMA20 \u00a31,450.90 | RSI 67.4"
+    "[AAPL] No position | \u00a3314.13 | EMA20 \u00a3307.71 | RSI 75.4",
+    "[MSFT] No position | \u00a3393.02 | EMA20 \u00a3387.18 | RSI 64.4",
+    "[GOOGL] No position | \u00a3369.17 | EMA20 \u00a3363.25 | RSI 68.0",
+    "[AMZN] No position | \u00a3242.99 | EMA20 \u00a3243.53 | RSI 50.3",
+    "[NVDA] No position | \u00a3193.10 | EMA20 \u00a3195.20 | RSI 41.4",
+    "[TSLA] No position | \u00a3405.79 | EMA20 \u00a3409.59 | RSI 46.9",
+    "[META] No position | \u00a3605.52 | EMA20 \u00a3595.92 | RSI 61.5",
+    "[VOD.L] No position | \u00a398.80 | EMA20 \u00a398.67 | RSI 50.5",
+    "[BARC.L] No position | \u00a3519.50 | EMA20 \u00a3522.02 | RSI 44.6",
+    "[HSBA.L] No position | \u00a31,458.10 | EMA20 \u00a31,455.83 | RSI 54.7"
   ],
   "tickers_watched": [
     "AAPL",
