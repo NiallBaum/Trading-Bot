@@ -1,21 +1,14 @@
 {
-  "last_updated": "2026-07-07 22:34:36 UTC",
+  "last_updated": "2026-07-08 15:07:37 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 0.0,
-  "equity": 2000.0,
-  "total_return_pct": 0.0,
-  "total_trades": 0,
+  "equity": 1965.83,
+  "total_return_pct": -1.71,
+  "total_trades": 1,
   "wins": 0,
-  "losses": 0,
+  "losses": 1,
   "win_rate": 0.0,
   "open_positions": [
-    {
-      "ticker": "AMZN",
-      "entry_price": 245.5449981689453,
-      "size": 8.145146571562071,
-      "stop_loss": 241.86182319641114,
-      "entry_time": "2026-07-07 19:38:30 UTC"
-    },
     {
       "ticker": "META",
       "entry_price": 615.7949829101562,
@@ -29,20 +22,39 @@
       "size": 0.0,
       "stop_loss": 193.97604278564452,
       "entry_time": "2026-07-07 21:13:31 UTC"
+    },
+    {
+      "ticker": "VOD.L",
+      "entry_price": 98.16000366210938,
+      "size": 20.026804211697105,
+      "stop_loss": 96.68760360717773,
+      "entry_time": "2026-07-08 15:07:37 UTC"
     }
   ],
-  "recent_closed_trades": [],
+  "recent_closed_trades": [
+    {
+      "ticker": "AMZN",
+      "entry_time": "2026-07-07 19:38:30 UTC",
+      "exit_time": "2026-07-08 15:07:37 UTC",
+      "entry_price": 245.5449981689453,
+      "exit_price": 241.35000610351562,
+      "size": 8.145146571562071,
+      "pnl_gbp": -34.168825239464695,
+      "pnl_pct": -1.708441261973235,
+      "reason": "STOP_LOSS_HIT"
+    }
+  ],
   "activity_log": [
-    "[AAPL] No position | \u00a3310.66 | EMA20 \u00a3312.32 | RSI 35.6",
-    "[MSFT] No position | \u00a3388.84 | EMA20 \u00a3391.12 | RSI 35.3",
-    "[GOOGL] No position | \u00a3367.03 | EMA20 \u00a3368.37 | RSI 44.4",
-    "[AMZN] Holding | Live \u00a3245.98 | Entry \u00a3245.54 | Unrealized \u00a33.54",
-    "[NVDA] Holding | Live \u00a3196.93 | Entry \u00a3196.93 | Unrealized \u00a30.00",
-    "[TSLA] No position | \u00a3402.90 | EMA20 \u00a3406.22 | RSI 33.6",
-    "[META] Holding | Live \u00a3615.58 | Entry \u00a3615.79 | Unrealized \u00a3-0.00",
-    "[VOD.L] No position | \u00a398.64 | EMA20 \u00a398.87 | RSI 50.7",
-    "[BARC.L] No position | \u00a3516.10 | EMA20 \u00a3520.52 | RSI 41.4",
-    "[HSBA.L] No position | \u00a31,453.40 | EMA20 \u00a31,458.62 | RSI 47.6"
+    "[AAPL] No position | \u00a3309.98 | EMA20 \u00a3310.83 | RSI 44.7",
+    "[MSFT] No position | \u00a3382.81 | EMA20 \u00a3387.01 | RSI 23.8",
+    "[GOOGL] No position | \u00a3361.35 | EMA20 \u00a3365.18 | RSI 27.2",
+    "[AMZN] EXIT (STOP_LOSS_HIT) at \u00a3241.35 | P&L: \u00a3-34.17 (-1.71%)",
+    "[NVDA] Holding | Live \u00a3198.00 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[TSLA] No position | \u00a3391.78 | EMA20 \u00a3400.21 | RSI 19.0",
+    "[META] ERROR: float division by zero",
+    "[VOD.L] BUY at \u00a398.16 | Shares: 20.0268 | Stop: \u00a396.69",
+    "[BARC.L] No position | \u00a3501.50 | EMA20 \u00a3505.10 | RSI 37.0",
+    "[HSBA.L] No position | \u00a31,429.00 | EMA20 \u00a31,437.62 | RSI 37.1"
   ],
   "tickers_watched": [
     "AAPL",

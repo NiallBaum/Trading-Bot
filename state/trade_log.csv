@@ -1,0 +1,2 @@
+ticker,entry_time,exit_time,entry_price,exit_price,size_shares,pnl_gbp,pnl_pct,exit_reason
+AMZN,2026-07-07 19:38:30 UTC,2026-07-08 15:07:37 UTC,245.54,241.35,8.1451,-34.17,-1.71,STOP_LOSS_HIT
