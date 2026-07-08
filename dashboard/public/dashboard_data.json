@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 16:54:48 UTC",
+  "last_updated": "2026-07-08 18:12:28 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 1962.23,
   "equity": 1962.23,
@@ -56,14 +56,14 @@
     }
   ],
   "activity_log": [
-    "[AAPL] BUY at \u00a3313.10 | Shares: 0.0000 | Stop: \u00a3308.40",
-    "[MSFT] No position | \u00a3382.56 | EMA20 \u00a3384.75 | RSI 28.4",
-    "[GOOGL] No position | \u00a3361.21 | EMA20 \u00a3363.07 | RSI 32.9",
-    "[AMZN] No position | \u00a3242.05 | EMA20 \u00a3242.65 | RSI 42.3",
-    "[NVDA] Holding | Live \u00a3200.24 | Entry \u00a3196.93 | Unrealized \u00a30.00",
-    "[TSLA] No position | \u00a3394.78 | EMA20 \u00a3396.90 | RSI 35.4",
+    "[AAPL] Holding | Live \u00a3314.56 | Entry \u00a3313.10 | Unrealized \u00a30.00",
+    "[MSFT] No position | \u00a3383.99 | EMA20 \u00a3384.21 | RSI 43.2",
+    "[GOOGL] No position | \u00a3359.40 | EMA20 \u00a3361.86 | RSI 29.9",
+    "[AMZN] No position | \u00a3241.70 | EMA20 \u00a3242.38 | RSI 41.1",
+    "[NVDA] Holding | Live \u00a3202.57 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[TSLA] No position | \u00a3393.08 | EMA20 \u00a3395.51 | RSI 35.7",
     "[META] ERROR: float division by zero",
-    "[VOD.L] EXIT (Price dropped below EMA20) at \u00a397.98 | P&L: \u00a3-3.60 (-0.18%)",
+    "[VOD.L] No position | \u00a397.98 | EMA20 \u00a397.94 | RSI 45.4",
     "[BARC.L] No position | \u00a3497.10 | EMA20 \u00a3503.79 | RSI 30.1",
     "[HSBA.L] No position | \u00a31,422.00 | EMA20 \u00a31,434.70 | RSI 29.6"
   ],
