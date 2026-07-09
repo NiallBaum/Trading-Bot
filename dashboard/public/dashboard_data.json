@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09 15:51:26 UTC",
+  "last_updated": "2026-07-09 17:46:03 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 0.0,
   "equity": 1910.59,
@@ -64,6 +64,13 @@
       "size": 0.0,
       "stop_loss": 1434.5540240478515,
       "entry_time": "2026-07-09 15:51:26 UTC"
+    },
+    {
+      "ticker": "MSFT",
+      "entry_price": 380.58990478515625,
+      "size": 0.0,
+      "stop_loss": 374.8810562133789,
+      "entry_time": "2026-07-09 17:46:03 UTC"
     }
   ],
   "recent_closed_trades": [
@@ -102,16 +109,16 @@
     }
   ],
   "activity_log": [
-    "[AAPL] Holding | Live \u00a3314.87 | Entry \u00a3313.10 | Unrealized \u00a30.00",
-    "[MSFT] No position | \u00a3380.45 | EMA20 \u00a3380.69 | RSI 44.6",
-    "[GOOGL] EXIT (STOP_LOSS_HIT) at \u00a3352.42 | P&L: \u00a3-51.64 (-2.63%)",
-    "[AMZN] ERROR: float division by zero",
-    "[NVDA] Holding | Live \u00a3201.93 | Entry \u00a3196.93 | Unrealized \u00a30.00",
-    "[TSLA] Holding | Live \u00a3399.52 | Entry \u00a3394.01 | Unrealized \u00a30.00",
-    "[META] ERROR: float division by zero",
-    "[VOD.L] BUY at \u00a397.76 | Shares: 19.5437 | Stop: \u00a396.29",
-    "[BARC.L] BUY at \u00a3507.00 | Shares: 0.0000 | Stop: \u00a3499.39",
-    "[HSBA.L] BUY at \u00a31,456.40 | Shares: 0.0000 | Stop: \u00a31,434.55"
+    "[AAPL] Holding | Live \u00a3314.86 | Entry \u00a3313.10 | Unrealized \u00a30.00",
+    "[MSFT] BUY at \u00a3380.59 | Shares: 0.0000 | Stop: \u00a3374.88",
+    "[GOOGL] No position | \u00a3355.68 | EMA20 \u00a3355.70 | RSI 45.8",
+    "[AMZN] Holding | Live \u00a3244.41 | Entry \u00a3243.58 | Unrealized \u00a30.00",
+    "[NVDA] Holding | Live \u00a3203.26 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[TSLA] ERROR: float division by zero",
+    "[META] Holding | Live \u00a3611.21 | Entry \u00a3615.79 | Unrealized \u00a3-0.00",
+    "[VOD.L] Holding | Live \u00a397.76 | Entry \u00a397.76 | Unrealized \u00a30.00",
+    "[BARC.L] Holding | Live \u00a3507.00 | Entry \u00a3507.00 | Unrealized \u00a30.00",
+    "[HSBA.L] Holding | Live \u00a31,456.40 | Entry \u00a31,456.40 | Unrealized \u00a30.00"
   ],
   "tickers_watched": [
     "AAPL",
