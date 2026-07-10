@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10 17:15:09 UTC",
+  "last_updated": "2026-07-10 18:54:14 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 0.0,
   "equity": 1910.59,
@@ -116,13 +116,13 @@
     }
   ],
   "activity_log": [
-    "[AAPL] Holding | Live \u00a3314.29 | Entry \u00a3313.10 | Unrealized \u00a30.00",
-    "[MSFT] Holding | Live \u00a3385.18 | Entry \u00a3380.59 | Unrealized \u00a30.00",
-    "[GOOGL] ERROR: float division by zero",
-    "[AMZN] ERROR: float division by zero",
-    "[NVDA] Holding | Live \u00a3209.88 | Entry \u00a3196.93 | Unrealized \u00a30.00",
-    "[TSLA] Holding | Live \u00a3409.11 | Entry \u00a3394.01 | Unrealized \u00a30.00",
-    "[META] Holding | Live \u00a3664.04 | Entry \u00a3615.79 | Unrealized \u00a30.00",
+    "[AAPL] Holding | Live \u00a3315.32 | Entry \u00a3313.10 | Unrealized \u00a30.00",
+    "[MSFT] Holding | Live \u00a3384.94 | Entry \u00a3380.59 | Unrealized \u00a30.00",
+    "[GOOGL] Holding | Live \u00a3355.55 | Entry \u00a3357.68 | Unrealized \u00a3-0.00",
+    "[AMZN] Holding | Live \u00a3245.49 | Entry \u00a3243.58 | Unrealized \u00a30.00",
+    "[NVDA] Holding | Live \u00a3210.03 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[TSLA] ERROR: float division by zero",
+    "[META] Holding | Live \u00a3669.20 | Entry \u00a3615.79 | Unrealized \u00a30.00",
     "[VOD.L] Holding | Live \u00a3110.10 | Entry \u00a397.76 | Unrealized \u00a3241.17",
     "[BARC.L] Holding | Live \u00a3512.60 | Entry \u00a3507.00 | Unrealized \u00a30.00",
     "[HSBA.L] Holding | Live \u00a31,471.00 | Entry \u00a31,456.40 | Unrealized \u00a30.00"
