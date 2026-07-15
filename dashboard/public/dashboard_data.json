@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14 22:29:09 UTC",
+  "last_updated": "2026-07-15 14:41:22 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 2281.72,
   "equity": 2281.72,
@@ -120,16 +120,16 @@
     }
   ],
   "activity_log": [
-    "[AAPL] ERROR: float division by zero",
-    "[MSFT] ERROR: float division by zero",
-    "[GOOGL] Holding | Live \u00a3359.51 | Entry \u00a3357.68 | Unrealized \u00a30.00",
-    "[AMZN] Holding | Live \u00a3247.49 | Entry \u00a3243.58 | Unrealized \u00a30.00",
-    "[NVDA] Holding | Live \u00a3211.80 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[AAPL] Holding | Live \u00a3324.24 | Entry \u00a3313.10 | Unrealized \u00a30.00",
+    "[MSFT] Holding | Live \u00a3397.68 | Entry \u00a3380.59 | Unrealized \u00a30.00",
+    "[GOOGL] Holding | Live \u00a3368.55 | Entry \u00a3357.68 | Unrealized \u00a30.00",
+    "[AMZN] Holding | Live \u00a3254.76 | Entry \u00a3243.58 | Unrealized \u00a30.00",
+    "[NVDA] ERROR: float division by zero",
     "[TSLA] ERROR: float division by zero",
-    "[META] Holding | Live \u00a3661.04 | Entry \u00a3615.79 | Unrealized \u00a30.00",
-    "[VOD.L] No position | \u00a3116.75 | EMA20 \u00a3117.20 | RSI 46.3",
-    "[BARC.L] Holding | Live \u00a3519.90 | Entry \u00a3507.00 | Unrealized \u00a30.00",
-    "[HSBA.L] Holding | Live \u00a31,490.00 | Entry \u00a31,456.40 | Unrealized \u00a30.00"
+    "[META] ERROR: float division by zero",
+    "[VOD.L] No position | \u00a3113.22 | EMA20 \u00a3113.52 | RSI 41.3",
+    "[BARC.L] Holding | Live \u00a3522.00 | Entry \u00a3507.00 | Unrealized \u00a30.00",
+    "[HSBA.L] ERROR: float division by zero"
   ],
   "tickers_watched": [
     "AAPL",
