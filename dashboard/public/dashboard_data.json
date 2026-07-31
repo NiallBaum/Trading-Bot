@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 17:00:09 UTC",
+  "last_updated": "2026-07-31 18:21:37 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 0.0,
   "equity": 2342.17,
@@ -150,10 +150,10 @@
   ],
   "activity_log": [
     "[AAPL] ERROR: float division by zero",
-    "[MSFT] Holding | Live \u00a3461.96 | Entry \u00a3380.59 | Unrealized \u00a30.00",
-    "[GOOGL] Holding | Live \u00a3353.16 | Entry \u00a3357.68 | Unrealized \u00a3-0.00",
-    "[AMZN] Holding | Live \u00a3271.15 | Entry \u00a3243.58 | Unrealized \u00a30.00",
-    "[NVDA] Holding | Live \u00a3198.25 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[MSFT] Holding | Live \u00a3462.26 | Entry \u00a3380.59 | Unrealized \u00a30.00",
+    "[GOOGL] Holding | Live \u00a3356.07 | Entry \u00a3357.68 | Unrealized \u00a3-0.00",
+    "[AMZN] Holding | Live \u00a3271.46 | Entry \u00a3243.58 | Unrealized \u00a30.00",
+    "[NVDA] Holding | Live \u00a3199.00 | Entry \u00a3196.93 | Unrealized \u00a30.00",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
     "[VOD.L] Holding | Live \u00a3117.85 | Entry \u00a3117.35 | Unrealized \u00a39.98",
