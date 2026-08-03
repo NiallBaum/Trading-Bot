@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03 17:45:08 UTC",
+  "last_updated": "2026-08-03 19:16:22 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 2351.15,
   "equity": 2351.15,
@@ -154,10 +154,10 @@
   ],
   "activity_log": [
     "[AAPL] ERROR: float division by zero",
-    "[MSFT] Holding | Live \u00a3488.65 | Entry \u00a3380.59 | Unrealized \u00a30.00",
-    "[GOOGL] Holding | Live \u00a3374.61 | Entry \u00a3357.68 | Unrealized \u00a30.00",
-    "[AMZN] Holding | Live \u00a3284.26 | Entry \u00a3243.58 | Unrealized \u00a30.00",
-    "[NVDA] Holding | Live \u00a3207.94 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[MSFT] Holding | Live \u00a3488.59 | Entry \u00a3380.59 | Unrealized \u00a30.00",
+    "[GOOGL] Holding | Live \u00a3374.60 | Entry \u00a3357.68 | Unrealized \u00a30.00",
+    "[AMZN] Holding | Live \u00a3283.33 | Entry \u00a3243.58 | Unrealized \u00a30.00",
+    "[NVDA] Holding | Live \u00a3207.88 | Entry \u00a3196.93 | Unrealized \u00a30.00",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
     "[VOD.L] No position | \u00a3117.25 | EMA20 \u00a3118.57 | RSI 40.5",
