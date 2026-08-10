@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-07 22:02:34 UTC",
+  "last_updated": "2026-08-10 14:11:35 UTC",
   "starting_balance": 2000.0,
-  "cash_balance": 0.0,
-  "equity": 2351.15,
-  "total_return_pct": 17.56,
-  "total_trades": 7,
+  "cash_balance": 2289.56,
+  "equity": 2289.56,
+  "total_return_pct": 14.48,
+  "total_trades": 8,
   "wins": 4,
-  "losses": 3,
-  "win_rate": 57.1,
+  "losses": 4,
+  "win_rate": 50.0,
   "open_positions": [
     {
       "ticker": "META",
@@ -71,16 +71,20 @@
       "size": 0.0,
       "stop_loss": 352.3147927856445,
       "entry_time": "2026-07-09 19:19:03 UTC"
-    },
-    {
-      "ticker": "VOD.L",
-      "entry_price": 120.25,
-      "size": 19.55220827370183,
-      "stop_loss": 118.44624999999999,
-      "entry_time": "2026-08-07 15:14:33 UTC"
     }
   ],
   "recent_closed_trades": [
+    {
+      "ticker": "VOD.L",
+      "entry_time": "2026-08-07 15:14:33 UTC",
+      "exit_time": "2026-08-10 14:11:35 UTC",
+      "entry_price": 120.25,
+      "exit_price": 117.0999984741211,
+      "size": 19.55220827370183,
+      "pnl_gbp": -61.589485896462975,
+      "pnl_pct": -2.6195438884647886,
+      "reason": "STOP_LOSS_HIT"
+    },
     {
       "ticker": "VOD.L",
       "entry_time": "2026-07-31 15:12:23 UTC",
@@ -160,14 +164,14 @@
     }
   ],
   "activity_log": [
-    "[AAPL] Holding | Live \u00a3313.33 | Entry \u00a3313.10 | Unrealized \u00a30.00",
-    "[MSFT] ERROR: float division by zero",
+    "[AAPL] ERROR: float division by zero",
+    "[MSFT] Holding | Live \u00a3508.73 | Entry \u00a3380.59 | Unrealized \u00a30.00",
     "[GOOGL] ERROR: float division by zero",
-    "[AMZN] ERROR: float division by zero",
-    "[NVDA] Holding | Live \u00a3223.96 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[AMZN] Holding | Live \u00a3275.92 | Entry \u00a3243.58 | Unrealized \u00a30.00",
+    "[NVDA] ERROR: float division by zero",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
-    "[VOD.L] Holding | Live \u00a3120.50 | Entry \u00a3120.25 | Unrealized \u00a34.89",
+    "[VOD.L] EXIT (STOP_LOSS_HIT) at \u00a3117.10 | P&L: \u00a3-61.59 (-2.62%)",
     "[BARC.L] ERROR: float division by zero",
     "[HSBA.L] ERROR: float division by zero"
   ],
