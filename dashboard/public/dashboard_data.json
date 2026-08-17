@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 13:31:27 UTC",
+  "last_updated": "2026-08-17 14:16:33 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 2333.28,
   "equity": 2333.28,
@@ -178,13 +178,13 @@
     "[AAPL] ERROR: float division by zero",
     "[MSFT] ERROR: float division by zero",
     "[GOOGL] ERROR: float division by zero",
-    "[AMZN] Holding | Live \u00a3265.28 | Entry \u00a3243.58 | Unrealized \u00a30.00",
-    "[NVDA] Holding | Live \u00a3226.93 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[AMZN] ERROR: float division by zero",
+    "[NVDA] Holding | Live \u00a3226.21 | Entry \u00a3196.93 | Unrealized \u00a30.00",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
-    "[VOD.L] EXIT (Price dropped below EMA20) at \u00a3120.10 | P&L: \u00a343.71 (+1.91%)",
-    "[BARC.L] ERROR: float division by zero",
-    "[HSBA.L] ERROR: float division by zero"
+    "[VOD.L] No position | \u00a3119.95 | EMA20 \u00a3120.23 | RSI 41.5",
+    "[BARC.L] Holding | Live \u00a3517.20 | Entry \u00a3507.00 | Unrealized \u00a30.00",
+    "[HSBA.L] Holding | Live \u00a31,536.80 | Entry \u00a31,456.40 | Unrealized \u00a30.00"
   ],
   "tickers_watched": [
     "AAPL",
