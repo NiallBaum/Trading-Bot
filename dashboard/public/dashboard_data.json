@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 21:43:40 UTC",
+  "last_updated": "2026-08-19 13:35:44 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 2333.28,
   "equity": 2333.28,
@@ -175,15 +175,15 @@
     }
   ],
   "activity_log": [
-    "[AAPL] Holding | Live \u00a3310.03 | Entry \u00a3313.10 | Unrealized \u00a3-0.00",
-    "[MSFT] ERROR: float division by zero",
+    "[AAPL] Holding | Live \u00a3311.24 | Entry \u00a3313.10 | Unrealized \u00a3-0.00",
+    "[MSFT] Holding | Live \u00a3482.68 | Entry \u00a3380.59 | Unrealized \u00a30.00",
     "[GOOGL] ERROR: float division by zero",
     "[AMZN] ERROR: float division by zero",
-    "[NVDA] ERROR: float division by zero",
+    "[NVDA] Holding | Live \u00a3221.47 | Entry \u00a3196.93 | Unrealized \u00a30.00",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
-    "[VOD.L] No position | \u00a3119.75 | EMA20 \u00a3120.57 | RSI 35.5",
-    "[BARC.L] ERROR: float division by zero",
+    "[VOD.L] No position | \u00a3119.00 | EMA20 \u00a3119.29 | RSI 39.4",
+    "[BARC.L] Holding | Live \u00a3504.50 | Entry \u00a3507.00 | Unrealized \u00a3-0.00",
     "[HSBA.L] ERROR: float division by zero"
   ],
   "tickers_watched": [
