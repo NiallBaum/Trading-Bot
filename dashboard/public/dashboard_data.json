@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-19 14:21:40 UTC",
+  "last_updated": "2026-08-19 14:59:02 UTC",
   "starting_balance": 2000.0,
-  "cash_balance": 0.0,
-  "equity": 2333.28,
-  "total_return_pct": 16.66,
-  "total_trades": 9,
+  "cash_balance": 2332.93,
+  "equity": 2332.93,
+  "total_return_pct": 16.65,
+  "total_trades": 10,
   "wins": 5,
-  "losses": 4,
-  "win_rate": 55.6,
+  "losses": 5,
+  "win_rate": 50.0,
   "open_positions": [
     {
       "ticker": "META",
@@ -71,16 +71,20 @@
       "size": 0.0,
       "stop_loss": 352.3147927856445,
       "entry_time": "2026-07-09 19:19:03 UTC"
-    },
-    {
-      "ticker": "VOD.L",
-      "entry_price": 119.30000305175781,
-      "size": 19.55805531350467,
-      "stop_loss": 117.51050300598145,
-      "entry_time": "2026-08-19 14:21:40 UTC"
     }
   ],
   "recent_closed_trades": [
+    {
+      "ticker": "VOD.L",
+      "entry_time": "2026-08-19 14:21:40 UTC",
+      "exit_time": "2026-08-19 14:59:02 UTC",
+      "entry_price": 119.30000305175781,
+      "exit_price": 119.28250122070312,
+      "size": 19.55805531350467,
+      "pnl_gbp": -0.3423017798550063,
+      "pnl_pct": -0.01467043638472072,
+      "reason": "Price dropped below EMA20"
+    },
     {
       "ticker": "VOD.L",
       "entry_time": "2026-08-11 15:26:55 UTC",
@@ -182,14 +186,14 @@
     }
   ],
   "activity_log": [
-    "[AAPL] Holding | Live \u00a3316.84 | Entry \u00a3313.10 | Unrealized \u00a30.00",
-    "[MSFT] Holding | Live \u00a3483.76 | Entry \u00a3380.59 | Unrealized \u00a30.00",
+    "[AAPL] Holding | Live \u00a3318.14 | Entry \u00a3313.10 | Unrealized \u00a30.00",
+    "[MSFT] Holding | Live \u00a3484.20 | Entry \u00a3380.59 | Unrealized \u00a30.00",
     "[GOOGL] ERROR: float division by zero",
-    "[AMZN] Holding | Live \u00a3261.17 | Entry \u00a3243.58 | Unrealized \u00a30.00",
-    "[NVDA] ERROR: float division by zero",
+    "[AMZN] ERROR: float division by zero",
+    "[NVDA] Holding | Live \u00a3219.75 | Entry \u00a3196.93 | Unrealized \u00a30.00",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
-    "[VOD.L] BUY at \u00a3119.30 | Shares: 19.5581 | Stop: \u00a3117.51",
+    "[VOD.L] EXIT (Price dropped below EMA20) at \u00a3119.28 | P&L: \u00a3-0.34 (-0.01%)",
     "[BARC.L] ERROR: float division by zero",
     "[HSBA.L] ERROR: float division by zero"
   ],
