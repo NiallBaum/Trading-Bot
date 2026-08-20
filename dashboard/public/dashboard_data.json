@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-19 21:46:48 UTC",
+  "last_updated": "2026-08-20 13:37:20 UTC",
   "starting_balance": 2000.0,
-  "cash_balance": 0.0,
-  "equity": 2332.93,
-  "total_return_pct": 16.65,
-  "total_trades": 10,
+  "cash_balance": 2306.6,
+  "equity": 2306.6,
+  "total_return_pct": 15.33,
+  "total_trades": 11,
   "wins": 5,
-  "losses": 5,
-  "win_rate": 50.0,
+  "losses": 6,
+  "win_rate": 45.5,
   "open_positions": [
     {
       "ticker": "META",
@@ -71,16 +71,20 @@
       "size": 0.0,
       "stop_loss": 352.3147927856445,
       "entry_time": "2026-07-09 19:19:03 UTC"
-    },
-    {
-      "ticker": "VOD.L",
-      "entry_price": 119.5999984741211,
-      "size": 19.50613533922827,
-      "stop_loss": 117.80599849700927,
-      "entry_time": "2026-08-19 15:29:04 UTC"
     }
   ],
   "recent_closed_trades": [
+    {
+      "ticker": "VOD.L",
+      "entry_time": "2026-08-19 15:29:04 UTC",
+      "exit_time": "2026-08-20 13:37:20 UTC",
+      "entry_price": 119.5999984741211,
+      "exit_price": 118.25,
+      "size": 19.50613533922827,
+      "pnl_gbp": -26.333252943957632,
+      "pnl_pct": -1.1287612803884786,
+      "reason": "Price dropped below EMA20"
+    },
     {
       "ticker": "VOD.L",
       "entry_time": "2026-08-19 14:21:40 UTC",
@@ -193,16 +197,16 @@
     }
   ],
   "activity_log": [
-    "[AAPL] Holding | Live \u00a3316.83 | Entry \u00a3313.10 | Unrealized \u00a30.00",
-    "[MSFT] Holding | Live \u00a3484.31 | Entry \u00a3380.59 | Unrealized \u00a30.00",
+    "[AAPL] Holding | Live \u00a3317.33 | Entry \u00a3313.10 | Unrealized \u00a30.00",
+    "[MSFT] ERROR: float division by zero",
     "[GOOGL] ERROR: float division by zero",
-    "[AMZN] Holding | Live \u00a3265.84 | Entry \u00a3243.58 | Unrealized \u00a30.00",
-    "[NVDA] ERROR: float division by zero",
+    "[AMZN] ERROR: float division by zero",
+    "[NVDA] Holding | Live \u00a3219.53 | Entry \u00a3196.93 | Unrealized \u00a30.00",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
-    "[VOD.L] Holding | Live \u00a3119.40 | Entry \u00a3119.60 | Unrealized \u00a3-3.90",
+    "[VOD.L] EXIT (Price dropped below EMA20) at \u00a3118.25 | P&L: \u00a3-26.33 (-1.13%)",
     "[BARC.L] ERROR: float division by zero",
-    "[HSBA.L] ERROR: float division by zero"
+    "[HSBA.L] Holding | Live \u00a31,504.80 | Entry \u00a31,456.40 | Unrealized \u00a30.00"
   ],
   "tickers_watched": [
     "AAPL",
