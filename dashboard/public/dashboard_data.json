@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01 17:02:15 UTC",
+  "last_updated": "2026-09-01 19:59:28 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 2349.29,
   "equity": 2349.29,
@@ -230,14 +230,14 @@
     }
   ],
   "activity_log": [
-    "[AAPL] Holding | Live \u00a3325.67 | Entry \u00a3313.10 | Unrealized \u00a30.00",
+    "[AAPL] Holding | Live \u00a3325.05 | Entry \u00a3313.10 | Unrealized \u00a30.00",
     "[MSFT] ERROR: float division by zero",
     "[GOOGL] ERROR: float division by zero",
     "[AMZN] ERROR: float division by zero",
-    "[NVDA] Holding | Live \u00a3219.10 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[NVDA] ERROR: float division by zero",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
-    "[VOD.L] EXIT (Price dropped below EMA20) at \u00a3119.40 | P&L: \u00a334.85 (+1.51%)",
+    "[VOD.L] No position | \u00a3119.40 | EMA20 \u00a3118.80 | RSI 49.5",
     "[BARC.L] ERROR: float division by zero",
     "[HSBA.L] Holding | Live \u00a31,533.40 | Entry \u00a31,456.40 | Unrealized \u00a30.00"
   ],
