@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14 17:40:04 UTC",
+  "last_updated": "2026-10-14 21:03:48 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 0.0,
   "equity": 2289.31,
@@ -310,7 +310,7 @@
     "[NVDA] ERROR: float division by zero",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
-    "[VOD.L] BUY at \u00a3117.75 | Shares: 19.4421 | Stop: \u00a3115.98",
+    "[VOD.L] Holding | Live \u00a3117.75 | Entry \u00a3117.75 | Unrealized \u00a30.00",
     "[BARC.L] ERROR: float division by zero",
     "[HSBA.L] ERROR: float division by zero"
   ],
