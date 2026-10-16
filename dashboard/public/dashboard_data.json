@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16 19:59:40 UTC",
+  "last_updated": "2026-10-16 22:35:57 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 0.0,
   "equity": 2289.31,
@@ -303,8 +303,8 @@
     }
   ],
   "activity_log": [
-    "[AAPL] Holding | Live \u00a3343.58 | Entry \u00a3313.10 | Unrealized \u00a30.00",
-    "[MSFT] Holding | Live \u00a3529.22 | Entry \u00a3380.59 | Unrealized \u00a30.00",
+    "[AAPL] Holding | Live \u00a3343.46 | Entry \u00a3313.10 | Unrealized \u00a30.00",
+    "[MSFT] Holding | Live \u00a3529.05 | Entry \u00a3380.59 | Unrealized \u00a30.00",
     "[GOOGL] ERROR: float division by zero",
     "[AMZN] ERROR: float division by zero",
     "[NVDA] ERROR: float division by zero",
