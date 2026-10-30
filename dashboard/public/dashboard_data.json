@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30 18:18:20 UTC",
+  "last_updated": "2026-10-30 22:31:03 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 0.0,
   "equity": 2314.38,
@@ -306,11 +306,11 @@
     "[AAPL] ERROR: float division by zero",
     "[MSFT] ERROR: float division by zero",
     "[GOOGL] ERROR: float division by zero",
-    "[AMZN] ERROR: float division by zero",
-    "[NVDA] ERROR: float division by zero",
-    "[TSLA] ERROR: float division by zero",
+    "[AMZN] Holding | Live \u00a3240.35 | Entry \u00a3243.58 | Unrealized \u00a3-0.00",
+    "[NVDA] Holding | Live \u00a3204.64 | Entry \u00a3196.93 | Unrealized \u00a30.00",
+    "[TSLA] Holding | Live \u00a3399.81 | Entry \u00a3394.01 | Unrealized \u00a30.00",
     "[META] ERROR: float division by zero",
-    "[VOD.L] BUY at \u00a3119.10 | Shares: 19.4323 | Stop: \u00a3117.31",
+    "[VOD.L] Holding | Live \u00a3119.10 | Entry \u00a3119.10 | Unrealized \u00a30.00",
     "[BARC.L] ERROR: float division by zero",
     "[HSBA.L] ERROR: float division by zero"
   ],
