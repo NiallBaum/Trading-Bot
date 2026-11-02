@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-30 22:31:03 UTC",
+  "last_updated": "2026-11-02 21:59:15 UTC",
   "starting_balance": 2000.0,
-  "cash_balance": 0.0,
-  "equity": 2314.38,
-  "total_return_pct": 15.72,
-  "total_trades": 23,
+  "cash_balance": 2270.66,
+  "equity": 2270.66,
+  "total_return_pct": 13.53,
+  "total_trades": 24,
   "wins": 12,
-  "losses": 11,
-  "win_rate": 52.2,
+  "losses": 12,
+  "win_rate": 50.0,
   "open_positions": [
     {
       "ticker": "META",
@@ -71,16 +71,20 @@
       "size": 0.0,
       "stop_loss": 352.3147927856445,
       "entry_time": "2026-07-09 19:19:03 UTC"
-    },
-    {
-      "ticker": "VOD.L",
-      "entry_price": 119.0999984741211,
-      "size": 19.43227128041506,
-      "stop_loss": 117.31349849700928,
-      "entry_time": "2026-10-30 18:18:20 UTC"
     }
   ],
   "recent_closed_trades": [
+    {
+      "ticker": "VOD.L",
+      "entry_time": "2026-10-30 18:18:20 UTC",
+      "exit_time": "2026-11-02 21:59:15 UTC",
+      "entry_price": 119.0999984741211,
+      "exit_price": 116.8499984741211,
+      "size": 19.43227128041506,
+      "pnl_gbp": -43.72261038093393,
+      "pnl_pct": -1.889168789946625,
+      "reason": "STOP_LOSS_HIT"
+    },
     {
       "ticker": "VOD.L",
       "entry_time": "2026-10-23 17:33:44 UTC",
@@ -289,28 +293,17 @@
       "pnl_gbp": 28.71969294539076,
       "pnl_pct": 1.258684562542303,
       "reason": "Price dropped below EMA20"
-    },
-    {
-      "ticker": "VOD.L",
-      "entry_time": "2026-07-09 15:51:26 UTC",
-      "exit_time": "2026-07-14 16:07:46 UTC",
-      "entry_price": 97.76000213623047,
-      "exit_price": 116.75,
-      "size": 19.54366444519096,
-      "pnl_gbp": 371.1341460644046,
-      "pnl_pct": 19.425120139938812,
-      "reason": "Price dropped below EMA20"
     }
   ],
   "activity_log": [
-    "[AAPL] ERROR: float division by zero",
+    "[AAPL] Holding | Live \u00a3338.32 | Entry \u00a3313.10 | Unrealized \u00a30.00",
     "[MSFT] ERROR: float division by zero",
     "[GOOGL] ERROR: float division by zero",
-    "[AMZN] Holding | Live \u00a3240.35 | Entry \u00a3243.58 | Unrealized \u00a3-0.00",
-    "[NVDA] Holding | Live \u00a3204.64 | Entry \u00a3196.93 | Unrealized \u00a30.00",
-    "[TSLA] Holding | Live \u00a3399.81 | Entry \u00a3394.01 | Unrealized \u00a30.00",
+    "[AMZN] ERROR: float division by zero",
+    "[NVDA] ERROR: float division by zero",
+    "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
-    "[VOD.L] Holding | Live \u00a3119.10 | Entry \u00a3119.10 | Unrealized \u00a30.00",
+    "[VOD.L] EXIT (STOP_LOSS_HIT) at \u00a3116.85 | P&L: \u00a3-43.72 (-1.89%)",
     "[BARC.L] ERROR: float division by zero",
     "[HSBA.L] ERROR: float division by zero"
   ],
