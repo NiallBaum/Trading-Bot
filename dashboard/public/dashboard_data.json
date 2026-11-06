@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-06 00:59:15 UTC",
+  "last_updated": "2026-11-06 19:44:41 UTC",
   "starting_balance": 2000.0,
-  "cash_balance": 2270.66,
+  "cash_balance": 0.0,
   "equity": 2270.66,
   "total_return_pct": 13.53,
   "total_trades": 24,
@@ -71,6 +71,13 @@
       "size": 0.0,
       "stop_loss": 352.3147927856445,
       "entry_time": "2026-07-09 19:19:03 UTC"
+    },
+    {
+      "ticker": "VOD.L",
+      "entry_price": 116.5,
+      "size": 19.490651240044695,
+      "stop_loss": 114.7525,
+      "entry_time": "2026-11-06 19:44:41 UTC"
     }
   ],
   "recent_closed_trades": [
@@ -299,11 +306,11 @@
     "[AAPL] ERROR: float division by zero",
     "[MSFT] ERROR: float division by zero",
     "[GOOGL] ERROR: float division by zero",
-    "[AMZN] Holding | Live \u00a3260.21 | Entry \u00a3243.58 | Unrealized \u00a30.00",
+    "[AMZN] ERROR: float division by zero",
     "[NVDA] ERROR: float division by zero",
     "[TSLA] ERROR: float division by zero",
     "[META] ERROR: float division by zero",
-    "[VOD.L] No position | \u00a3119.40 | EMA20 \u00a3120.16 | RSI 37.6",
+    "[VOD.L] BUY at \u00a3116.50 | Shares: 19.4907 | Stop: \u00a3114.75",
     "[BARC.L] ERROR: float division by zero",
     "[HSBA.L] ERROR: float division by zero"
   ],
