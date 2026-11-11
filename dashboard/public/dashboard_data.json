@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-11 00:43:39 UTC",
+  "last_updated": "2026-11-11 19:54:53 UTC",
   "starting_balance": 2000.0,
-  "cash_balance": 2279.43,
+  "cash_balance": 0.0,
   "equity": 2279.43,
   "total_return_pct": 13.97,
   "total_trades": 25,
@@ -71,6 +71,13 @@
       "size": 0.0,
       "stop_loss": 352.3147927856445,
       "entry_time": "2026-07-09 19:19:03 UTC"
+    },
+    {
+      "ticker": "VOD.L",
+      "entry_price": 117.3499984741211,
+      "size": 19.424215020719895,
+      "stop_loss": 115.58974849700928,
+      "entry_time": "2026-11-11 19:54:53 UTC"
     }
   ],
   "recent_closed_trades": [
@@ -296,14 +303,14 @@
     }
   ],
   "activity_log": [
-    "[AAPL] Holding | Live \u00a3348.51 | Entry \u00a3313.10 | Unrealized \u00a30.00",
+    "[AAPL] Holding | Live \u00a3354.78 | Entry \u00a3313.10 | Unrealized \u00a30.00",
     "[MSFT] ERROR: float division by zero",
     "[GOOGL] ERROR: float division by zero",
-    "[AMZN] Holding | Live \u00a3270.87 | Entry \u00a3243.58 | Unrealized \u00a30.00",
+    "[AMZN] ERROR: float division by zero",
     "[NVDA] ERROR: float division by zero",
-    "[TSLA] ERROR: float division by zero",
+    "[TSLA] Holding | Live \u00a3391.88 | Entry \u00a3394.01 | Unrealized \u00a3-0.00",
     "[META] ERROR: float division by zero",
-    "[VOD.L] No position | \u00a3115.75 | EMA20 \u00a3116.46 | RSI 37.1",
+    "[VOD.L] BUY at \u00a3117.35 | Shares: 19.4242 | Stop: \u00a3115.59",
     "[BARC.L] ERROR: float division by zero",
     "[HSBA.L] ERROR: float division by zero"
   ],
