@@ -1,5 +1,5 @@
 {
-  "balance": 0.0,
+  "balance": 2286.230048660732,
   "positions": {
     "META": {
       "entry_price": 615.7949829101562,
@@ -54,12 +54,6 @@
       "size": 0.0,
       "stop_loss": 352.3147927856445,
       "entry_time": "2026-07-09 19:19:03 UTC"
-    },
-    "VOD.L": {
-      "entry_price": 117.3499984741211,
-      "size": 19.424215020719895,
-      "stop_loss": 115.58974849700928,
-      "entry_time": "2026-11-11 19:54:53 UTC"
     }
   },
   "last_candle_time": {
@@ -74,8 +68,8 @@
     "HSBA.L": "2026-07-09 16:15:00+01:00",
     "MSFT": "2026-07-09 13:45:00-04:00"
   },
-  "total_trades": 25,
-  "wins": 13,
+  "total_trades": 26,
+  "wins": 14,
   "losses": 12,
   "closed_trades": [
     {
@@ -351,6 +345,17 @@
       "size": 19.490651240044695,
       "pnl_gbp": 8.77073357727295,
       "pnl_pct": 0.38626347488599916,
+      "reason": "Price dropped below EMA20"
+    },
+    {
+      "ticker": "VOD.L",
+      "entry_time": "2026-11-11 19:54:53 UTC",
+      "exit_time": "2026-11-16 22:36:32 UTC",
+      "entry_price": 117.3499984741211,
+      "exit_price": 117.69999694824219,
+      "size": 19.424215020719895,
+      "pnl_gbp": 6.798445618252117,
+      "pnl_pct": 0.29825179264768753,
       "reason": "Price dropped below EMA20"
     }
   ]
