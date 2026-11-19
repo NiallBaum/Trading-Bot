@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19 02:11:46 UTC",
+  "last_updated": "2026-11-19 21:03:26 UTC",
   "starting_balance": 2000.0,
   "cash_balance": 2286.23,
   "equity": 2286.23,
@@ -297,13 +297,13 @@
   ],
   "activity_log": [
     "[AAPL] ERROR: float division by zero",
-    "[MSFT] Holding | Live \u00a3508.29 | Entry \u00a3380.59 | Unrealized \u00a30.00",
+    "[MSFT] ERROR: float division by zero",
     "[GOOGL] ERROR: float division by zero",
-    "[AMZN] Holding | Live \u00a3267.74 | Entry \u00a3243.58 | Unrealized \u00a30.00",
+    "[AMZN] ERROR: float division by zero",
     "[NVDA] ERROR: float division by zero",
     "[TSLA] ERROR: float division by zero",
-    "[META] Holding | Live \u00a3616.38 | Entry \u00a3615.79 | Unrealized \u00a30.00",
-    "[VOD.L] No position | \u00a3114.05 | EMA20 \u00a3114.39 | RSI 46.1",
+    "[META] ERROR: float division by zero",
+    "[VOD.L] No position | \u00a3109.45 | EMA20 \u00a3110.64 | RSI 24.9",
     "[BARC.L] ERROR: float division by zero",
     "[HSBA.L] ERROR: float division by zero"
   ],
